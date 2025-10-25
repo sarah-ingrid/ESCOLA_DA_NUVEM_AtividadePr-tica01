@@ -1,0 +1,11 @@
+# Desenvolva um programa que calcule o preço total de uma compra
+
+produto = "Cadeira Infantil"
+preco = 12.40
+qtd = 3 
+
+total = preco * qtd
+
+print('Produto:', produto, f"\nPreço unitário: R$ {preco:.2f}", '\nQuantidade:', qtd)
+
+print(f'\nPreço total a pagar: R$ {total:.2f}')

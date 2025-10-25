@@ -1,0 +1,9 @@
+# Crie um programa que calcule o volume de uma caixa retangular.
+
+compr = 12 
+lar = 14
+alt = 20 
+
+volume = compr * lar * alt 
+
+print(volume, 'cm³')
